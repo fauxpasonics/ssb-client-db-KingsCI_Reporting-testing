@@ -1,0 +1,10 @@
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_NULLS ON
+GO
+CREATE VIEW [conv].[vwContact_xRef] AS
+
+
+SELECT * FROM conv.Contact_xref
+
+GO

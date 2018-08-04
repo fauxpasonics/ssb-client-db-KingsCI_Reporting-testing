@@ -1,0 +1,3 @@
+CREATE SCHEMA [prodcopy_conv]
+AUTHORIZATION [dbo]
+GO
